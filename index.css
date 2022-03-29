@@ -1,0 +1,9 @@
+span{
+    padding : 10px 10px;
+    align-items:center ;
+    text-align: center;
+    border: 1px solid #999;
+    width: 100px;
+    font-size: 10px;
+    justify-content: center;
+}
